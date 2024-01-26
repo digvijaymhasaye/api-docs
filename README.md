@@ -10,7 +10,16 @@ API documentation includes detailed information about an API's available endpoin
 
 Here, we'll start by discussing the role that API documentation plays in an API-first world. Then, we'll review the key components of API documentation, as well as some API documentation best practices. Finally, we'll explore how the Postman API Platform enables producers to create API documentation that sets their consumers up for success.
 
+### Tech stack
+- Next.js
+- Ruby on Rails
+- MongoDB
+- AWS S3
+- Railway.app
+
 ### References
 - [Rails and Next.js: the perfect combination for modern web development (Final part)](https://medium.com/@raphox/rails-and-next-js-the-perfect-combination-for-modern-web-development-final-part-a88af492a00)
 - [🚄Node On Rails: Creating a Monorepo aka workspaces with yarn](https://dev.to/lampewebdev/node-on-rails-creating-a-monorepo-aka-workspaces-with-yarn-284i)
 - [Monorepo Explained](https://monorepo.tools/)
+- [Stoplight API documentation](https://docs.stoplight.io/docs/stoplight-api-docs/5f9e6d12b1e9b-export-a-project-file-branch)
+- [APIDocjs Demo](https://apidocjs.com/example/#api-Category_official-GetCategory)
