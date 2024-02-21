@@ -1,36 +1,25 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# api-docs
+APIDocs is a Free and Open Source collaborative platform equipping your team with tooling across the API lifecycle that helps them build quality APIs efficiently.
 
-## Getting Started
+## API Documentation
+### What is API documentation?
 
-First, run the development server:
+API documentation is a set of human-readable instructions for using and integrating with an API.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+API documentation includes detailed information about an API's available endpoints, methods, resources, authentication protocols, parameters, and headers, as well as examples of common requests and responses. Effective API documentation improves the developer experience for private, partner, and public APIs, but it also offers distinct benefits for each API type. For instance, private API documentation improves cross-team collaboration, while public API documentation makes it easier for leaders to understand a third-party API's intended use case and determine whether it will help advance their organization's business goals. Teams that prioritize API documentation typically see higher rates of API adoption, fewer support tickets, and—in the case of public APIs—increased revenue.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Here, we'll start by discussing the role that API documentation plays in an API-first world. Then, we'll review the key components of API documentation, as well as some API documentation best practices. Finally, we'll explore how the Postman API Platform enables producers to create API documentation that sets their consumers up for success.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Tech stack
+- Next.js
+- Ruby on Rails
+- MongoDB
+- AWS S3
+- Railway.app
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### References
+- [Rails and Next.js: the perfect combination for modern web development (Final part)](https://medium.com/@raphox/rails-and-next-js-the-perfect-combination-for-modern-web-development-final-part-a88af492a00)
+- [🚄Node On Rails: Creating a Monorepo aka workspaces with yarn](https://dev.to/lampewebdev/node-on-rails-creating-a-monorepo-aka-workspaces-with-yarn-284i)
+- [Monorepo Explained](https://monorepo.tools/)
+- [Stoplight API documentation](https://docs.stoplight.io/docs/stoplight-api-docs/5f9e6d12b1e9b-export-a-project-file-branch)
+- [APIDocjs Demo](https://apidocjs.com/example/#api-Category_official-GetCategory)
